@@ -1,0 +1,17 @@
+
+
+
+    
+ {  
+     "programming" :["php", "javascript", "go", "scala", "fortran", "mysql", "python","c++","c#","c"],
+    "countries":  ["Syria", "Palestine", "Yemen", "Egypt", "Bahrain", "Qatar"],
+
+    "movies" : ["Prestige", "Inception", "Parasite", "Interstellar", 
+    "Whiplash", "Memento", "Coco", "Up"],
+
+    "people" :  ["Albert Einstein", "Hitchcock", "Alexander", "Cleopatra", "Mahatma Ghandi"]
+
+ 
+    }
+
+   
